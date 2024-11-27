@@ -2,7 +2,7 @@
 
 Small pocketable configurations of vimrc.
 
-## copy & paste
+## copy & yank
 
 ```vim
 " ---Options---
